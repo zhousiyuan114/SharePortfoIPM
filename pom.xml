@@ -41,10 +41,12 @@
         <maven.compiler.source>14</maven.compiler.source>
         <maven.compiler.target>14</maven.compiler.target>
         
+        <sonar.projectKey>zhousiyuan114_SharePortfoIPM</sonar.projectKey>
         <sonar.organization>zhousiyuan114</sonar.organization>
-        <sonar.projectKey>XXXXX</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.java.libraries></sonar.java.libraries>
+
+ 
 
     </properties>
     
